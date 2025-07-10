@@ -1,6 +1,6 @@
-content = """# annotated-ai-papers
+### AI Research Papers (Archive)
 
-> A curated, continuously updated collection of AI research papers—each PDF annotated with my highlights, margin notes, and implementation takeaways—documenting my journey from finance‑savvy coder to expert in personalized AI assistants.
+> “What we know is a drop; what we don’t know is an ocean.” – Isaac Newton
 
 ![Paper count](https://img.shields.io/badge/papers-0-blue) ![Last updated](https://img.shields.io/badge/updated-2025--07--10-brightgreen)
 

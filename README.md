@@ -15,7 +15,7 @@ This is primarily my personal learning log, but PRs suggesting additional semina
 
 ## ⚖️ License & Copyright
 Notes, code, and badge scripts: MIT License (see LICENSE file).
-Research papers: Copyright belongs to the original authors and publishers.  Where distribution is restricted, only metadata and personal annotations are provided here—no full‑text PDFs.
+Research papers: Copyright belongs to the original authors and publishers.
 
 ## 🙏 Acknowledgements
 Thanks to the researchers pushing the field forward and to open‑access initiatives like arXiv.

@@ -2,7 +2,7 @@
 
 > “What we know is a drop; what we don’t know is an ocean.” – Isaac Newton
 
-![Paper count](https://img.shields.io/badge/papers-0-blue) ![Last updated](https://img.shields.io/badge/updated-2025--07--10-brightgreen)
+![Paper count](https://img.shields.io/badge/papers-2-blue) ![Last updated](https://img.shields.io/badge/updated-2025--07--10-brightgreen)
 
 ## 🚀 Purpose
 Reading papers is only half the battle; the other half is **making the ideas stick**. This repo is my open notebook:

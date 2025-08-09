@@ -8,7 +8,7 @@
 Reading papers is only half the battle; the other half is **making the ideas stick**. This repo is my open notebook:
 
 * **Archive** of influential AI papers (with links to originals or local PDFs when allowed).
-* **Annotations & highlights**—key equations, code snippets, and conceptual takeaways in each PDF.
+* **Annotations & highlights**—key equations, code snippets, and conceptual takeaways in each PDF. *You have to download the PDF to read comments.
 
 ## 🤝 Contributing
 This is primarily my personal learning log, but PRs suggesting additional seminal papers, correcting typos, or refining badge scripts are welcome. Open an issue first if the change is substantial.
